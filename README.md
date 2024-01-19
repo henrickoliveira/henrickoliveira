@@ -1,4 +1,8 @@
-### Hi there 👋
+Olá, Me chamo Henrique Olivera-
+um récem formado em QA Engineer, decidido a ajudar empresas na garatina de qualidade através de testes com ações corretivas. Olá, eu sou Diêgo -
+um analista de marketing decidido a ajudar empresas a otimizarem suas vendas com dados.
+É um prazer te ter por aqui!😊
+É um prazer te ter por aqui!😊 👋
 
 <!--
 **henrickoliveira/henrickoliveira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
