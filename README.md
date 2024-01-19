@@ -1,7 +1,5 @@
-Olá, Me chamo Henrique Olivera-
-um récem formado em QA Engineer, decidido a ajudar empresas na garatina de qualidade através de testes com ações corretivas. Olá, eu sou Diêgo -
-um analista de marketing decidido a ajudar empresas a otimizarem suas vendas com dados.
-É um prazer te ter por aqui!😊
+Olá, Me chamo Henrique Olivera.
+Sou um récem formado em QA Engineer, decidido a ajudar empresas na garatina de qualidade através de testes com ações corretivas.
 É um prazer te ter por aqui!😊 👋
 
 <!--
