@@ -1,4 +1,4 @@
-Olá, Me chamo Henrique Olivera, natural de bauru, São Paulo.
+Olá, Me chamo Henrique Olivera, natural de Bauru, São Paulo.
 
 Sou recém formado em QA Engineer, decidido a ajudar empresas na garantia de qualidade através de testes com ações corretivas.
 
